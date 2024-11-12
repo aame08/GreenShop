@@ -1,0 +1,6 @@
+@GreenShopApi_HostAddress = http://localhost:5102
+
+GET {{GreenShopApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
